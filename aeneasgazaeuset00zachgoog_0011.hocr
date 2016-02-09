@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "aeneasgazaeuset00zachgoog_0011.png"; bbox 0 0 2864 4810; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 409 3673 1063 3882">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 409 3673 1063 3882">
+     <span class='ocr_line' id='line_1_1' title="bbox 485 3673 991 3709; baseline -0.008 -15"><span class='ocrx_word' id='word_1_1' title='bbox 485 3673 991 3709; x_wconf 53' lang='grc' dir='ltr'><strong>,ψ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 409 3749 1063 3805; baseline 0.002 -9"><span class='ocrx_word' id='word_1_2' title='bbox 409 3749 633 3798; x_wconf 72' lang='lat' dir='ltr'><strong>ExCUDEBANT</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 650 3749 769 3796; x_wconf 78' lang='lat' dir='ltr'>FIRMIN</span> <span class='ocrx_word' id='word_1_4' title='bbox 786 3750 889 3796; x_wconf 87' lang='lat' dir='ltr'>D1DOT</span> <span class='ocrx_word' id='word_1_5' title='bbox 906 3749 1063 3805; x_wconf 76' lang='lat' dir='ltr'>FRATRES,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 474 3838 1011 3882; baseline -0.004 -4"><span class='ocrx_word' id='word_1_6' title='bbox 474 3840 604 3880; x_wconf 73' lang='lat' dir='ltr'>msmun</span> <span class='ocrx_word' id='word_1_7' title='bbox 619 3839 689 3878; x_wconf 64' lang='lat' dir='ltr'><strong>amn</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 703 3839 823 3878; x_wconf 69' lang='lat' dir='ltr'>mucuss</span> <span class='ocrx_word' id='word_1_9' title='bbox 836 3838 1011 3882; x_wconf 69' lang='lat' dir='ltr'><strong>Tvmomm,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 426 3904 989 4035">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 426 3904 989 4035">
+     <span class='ocr_line' id='line_1_4' title="bbox 626 3904 856 3971; baseline -0.004 -10"><span class='ocrx_word' id='word_1_10' title='bbox 626 3927 672 3961; x_wconf 81' lang='lat' dir='ltr'><strong>vu</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 693 3904 792 3970; x_wconf 56' lang='lat' dir='ltr'><strong>neon,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 815 3915 856 3971; x_wconf 68' lang='lat'><strong>24.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 426 3999 989 4035; baseline -0.027 3"><span class='ocrx_word' id='word_1_13' title='bbox 426 4024 428 4028; x_wconf 94' lang='lat'>·</span> <span class='ocrx_word' id='word_1_14' title='bbox 483 3999 989 4035; x_wconf 46' lang='grc' dir='ltr'><strong>ο--ιῡοοομ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1436 4804">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1436 4804">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1436 4804; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1436 4804; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
